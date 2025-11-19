@@ -1,7 +1,7 @@
 package xmlparser
 
 import (
-	"github.com/tamerh/xpath"
+	"github.com/wilkmaciej/xpath"
 )
 
 // CreateXPathNavigator creates a new xpath.NodeNavigator for the specified html.Node.
